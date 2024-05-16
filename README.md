@@ -15,7 +15,7 @@
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Full Stack Development, MERN Stack, Next.js**
 - 📫 How to reach me **bassamnaeem01@gmail.com**
-- ⚡ Fun fact **I love hiking and reading books**
+- ⚡ Fun fact **I love travelling and reading books**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
