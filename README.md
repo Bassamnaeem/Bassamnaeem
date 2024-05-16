@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/bassamnaeem" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bassamnaeem" height="30" width="40" /></a>
-  <a href="https://github.com/Bassamnaeem" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github-alt.svg" alt="bassamnaeem" height="30" width="40" /></a>
+  <a href="https://github.com/Bassamnaeem" target="_blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github-alt.svg](https://seeklogo.com/images/G/github-logo-5F384D0265-seeklogo.com.png)" alt="bassamnaeem" height="30" width="40" /></a>
   <a href="https://www.bassamnaeem.me" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/globe.svg" alt="bassamnaeem" height="30" width="40" /></a>
 </p>
 
