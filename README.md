@@ -1,6 +1,3 @@
-
-
-
 <h1 align="center">Hi 👋, I'm Bassam Naeem</h1>
 <h3 align="center">A Passionate Full Stack Developer from Pakistan</h3>
 
@@ -14,7 +11,7 @@
 
 ### About Me 🚀
 
-I’m **Bassam Naeem**, a dynamic full-stack **Software Developer** with a **Bachelor’s in Computer Science**. With a deep passion for turning innovative ideas into tangible solutions, I specialize in developing high-quality web and mobile applications using the **MERN Stack, Next.js, and React Native**. Always eager to explore new technologies, I thrive in building user-centric, scalable, and efficient applications.
+I’m **Bassam Naeem**, a dynamic full-stack **Software Developer** with a **Bachelor’s in Computer Science**. With a deep passion for turning innovative ideas into tangible solutions, I specialize in developing high-quality web and mobile applications using the **MERN Stack, Node.js and React Native**. Always eager to explore new technologies, I thrive in building user-centric, scalable, and efficient applications.I am also looking for clients to deliver **high-quality websites and mobile apps** tailored to their needs.
 
 🔭 **Currently Working On:** Real Estate Analytics Website  
 🌱 **Currently Learning:** Kubernetes  
@@ -45,18 +42,17 @@ I’m **Bassam Naeem**, a dynamic full-stack **Software Developer** with a **Bac
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="VS Code" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" alt="Jira" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" />
+ 
 </p>
 
 ---
 
 ### 🚀 Recent Projects
 
-- **[Employee Portal System](https://example.com)** – Developed a comprehensive employee portal integrating **Microsoft Exchange services and Active Directory**, utilizing **Next.js, Material UI, Nest.js, and GraphQL**.
-- **[Fleet Tracking App](https://example.com)** – Built a cross-platform **fleet tracking app** using **React Native, Google Maps, real-time streaming with Socket.io, and push notifications**.
+- **[Employee Portal System]** – Developed a comprehensive employee portal integrating **Microsoft Exchange services and Active Directory**, utilizing **Next.js, Material UI, Nest.js, and GraphQL**.
+- **[Fleet Tracking App]** – Built a cross-platform **fleet tracking app** using **React Native, Google Maps, real-time streaming with Socket.io, and push notifications**.
 
 ---
-
 
 ### 📊 GitHub Stats
 
@@ -69,6 +65,7 @@ I’m **Bassam Naeem**, a dynamic full-stack **Software Developer** with a **Bac
 </p>
 
 ---
+
 ### 📜 Certifications
 
 - **[Trello for Beginners](https://www.coursera.org/account/accomplishments/certificate/7JD2E6ZHUBML)** – Coursera (Oct 2023)
@@ -79,7 +76,7 @@ I’m **Bassam Naeem**, a dynamic full-stack **Software Developer** with a **Bac
 
 ### 🤝 Connect with Me
 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/bassamnaeem" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="https://github.com/Bassamnaeem" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="GitHub" height="30" width="40" /></a>
   <a href="https://www.bassamnaeem.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sema/sema-original.svg" alt="Portfolio" height="30" width="40" /></a>
