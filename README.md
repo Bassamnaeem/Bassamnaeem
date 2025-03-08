@@ -39,11 +39,6 @@ I’m **Bassam Naeem**, a dynamic full-stack **Software Developer** with a **Bac
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain-wordmark.svg" alt="GraphQL" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" />
-</p>
-
-#### 🛠️ Tools & Technologies
-
-<p align="left"> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="VS Code" width="40" height="40" />
@@ -58,26 +53,9 @@ I’m **Bassam Naeem**, a dynamic full-stack **Software Developer** with a **Bac
 
 - **[Employee Portal System](https://example.com)** – Developed a comprehensive employee portal integrating **Microsoft Exchange services and Active Directory**, utilizing **Next.js, Material UI, Nest.js, and GraphQL**.
 - **[Fleet Tracking App](https://example.com)** – Built a cross-platform **fleet tracking app** using **React Native, Google Maps, real-time streaming with Socket.io, and push notifications**.
-- **[Cosmetics Company Website](https://cosmetic-landing-page.vercel.app/)** – Designed and developed a modern **landing page for a cosmetics brand**.
 
 ---
 
-### 📜 Certifications
-
-- **[Trello for Beginners](https://www.coursera.org/account/accomplishments/certificate/7JD2E6ZHUBML)** – Coursera (Oct 2023)
-- **[Server-side Development with NodeJS, Express, and MongoDB](https://www.coursera.org/account/accomplishments/certificate/HY43KYDAWRSQ)** – Coursera (Jun 2022)
-- **[Programming Essentials in Python (PCAP)](https://www.credly.com/badges/your-badge-id)** – Cisco Networking Academy (Mar 2022)
-
----
-
-### 🎭 Hobbies
-
-📚 Reading Books  
-🏞️ Hiking  
-♟️ Playing Chess  
-📷 Photography
-
----
 
 ### 📊 GitHub Stats
 
@@ -88,6 +66,13 @@ I’m **Bassam Naeem**, a dynamic full-stack **Software Developer** with a **Bac
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bassamnaeem&theme=dark" alt="GitHub Streak" />
 </p>
+
+---
+### 📜 Certifications
+
+- **[Trello for Beginners](https://www.coursera.org/account/accomplishments/certificate/7JD2E6ZHUBML)** – Coursera (Oct 2023)
+- **[Server-side Development with NodeJS, Express, and MongoDB](https://www.coursera.org/account/accomplishments/certificate/HY43KYDAWRSQ)** – Coursera (Jun 2022)
+- **[Programming Essentials in Python (PCAP)](https://www.credly.com/badges/your-badge-id)** – Cisco Networking Academy (Mar 2022)
 
 ---
 
