@@ -77,9 +77,9 @@ I’m **Bassam Naeem**, a dynamic full-stack **Software Developer** with a **Bac
 ### 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/bassamnaeem" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://github.com/Bassamnaeem" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="GitHub" height="30" width="40" /></a>
-  <a href="https://www.bassamnaeem.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sema/sema-original.svg" alt="Portfolio" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/bassamnaeem" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" /></a>
+  <a href="https://github.com/Bassamnaeem" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="GitHub" height="40" width="40" /></a>
+  <a href="https://www.bassamnaeem.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sema/sema-original.svg" alt="Portfolio" height="40" width="40" /></a>
 </p>
 
 ---
