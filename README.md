@@ -1,4 +1,5 @@
-[![MasterHead](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)](https://bassamnaeem.me)
+[![MasterHead](<img align="right" alt="Coding" width="400" src="https://shorturl.at/elmH4"></img>
+)](https://bassamnaeem.com)
 
 <h1 align="center">Hi 👋, I'm Bassam Naeem</h1>
 <h3 align="center">A Passionate Full Stack Developer from Pakistan</h3>
@@ -15,12 +16,12 @@
 
 I’m **Bassam Naeem**, a dynamic full-stack **Software Developer** with a **Bachelor’s in Computer Science**. With a deep passion for turning innovative ideas into tangible solutions, I specialize in developing high-quality web and mobile applications using the **MERN Stack, Next.js, and React Native**. Always eager to explore new technologies, I thrive in building user-centric, scalable, and efficient applications.
 
-🔭 **Currently Working On:** Real Estate Analytics Website
-🌱 **Currently Learning:** GraphQL and Docker  
+🔭 **Currently Working On:** Real Estate Analytics Website  
+🌱 **Currently Learning:** Kubernetes  
 👯 **Looking to Collaborate On:** Open Source Projects  
-💬 **Ask Me About:** Full Stack Development,Cross PLatform Mobile App Development, MERN Stack, Next.js  
+💬 **Ask Me About:** Full Stack Development, Cross Platform Mobile App Development, MERN Stack, Next.js  
 📫 **How to Reach Me:** bassam@bassamnaeem.com  
-⚡ **Fun Fact:** I love hiking and reading books  
+⚡ **Fun Fact:** I love hiking and reading books
 
 ---
 
@@ -30,13 +31,14 @@ I’m **Bassam Naeem**, a dynamic full-stack **Software Developer** with a **Bac
 
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain-wordmark.svg" alt="GraphQL" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" />
 </p>
 
@@ -46,6 +48,9 @@ I’m **Bassam Naeem**, a dynamic full-stack **Software Developer** with a **Bac
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="VS Code" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" alt="Jira" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" />
 </p>
 
 ---
@@ -60,9 +65,9 @@ I’m **Bassam Naeem**, a dynamic full-stack **Software Developer** with a **Bac
 
 ### 📜 Certifications
 
-- **[Trello for Beginners](https://www.coursera.org/account/accomplishments/certificate/7JD2E6ZHUBML)** – Coursera (Oct 2023)  
-- **[Server-side Development with NodeJS, Express, and MongoDB](https://www.coursera.org/account/accomplishments/certificate/HY43KYDAWRSQ)** – Coursera (Jun 2022)  
-- **[Programming Essentials in Python (PCAP)](https://www.credly.com/badges/your-badge-id)** – Cisco Networking Academy (Mar 2022)  
+- **[Trello for Beginners](https://www.coursera.org/account/accomplishments/certificate/7JD2E6ZHUBML)** – Coursera (Oct 2023)
+- **[Server-side Development with NodeJS, Express, and MongoDB](https://www.coursera.org/account/accomplishments/certificate/HY43KYDAWRSQ)** – Coursera (Jun 2022)
+- **[Programming Essentials in Python (PCAP)](https://www.credly.com/badges/your-badge-id)** – Cisco Networking Academy (Mar 2022)
 
 ---
 
@@ -71,7 +76,7 @@ I’m **Bassam Naeem**, a dynamic full-stack **Software Developer** with a **Bac
 📚 Reading Books  
 🏞️ Hiking  
 ♟️ Playing Chess  
-📷 Photography  
+📷 Photography
 
 ---
 
@@ -91,8 +96,8 @@ I’m **Bassam Naeem**, a dynamic full-stack **Software Developer** with a **Bac
 
 <p align="left">
   <a href="https://linkedin.com/in/bassamnaeem" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://github.com/Bassamnaeem" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" alt="GitHub" height="30" width="40" /></a>
-  <a href="https://www.bassamnaeem.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sema/sema-original.svg" alt="Portfolio" height="30" width="40" /></a>
+  <a href="https://github.com/Bassamnaeem" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="GitHub" height="30" width="40" /></a>
+  <a href="https://www.bassamnaeem.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sema/sema-original.svg" alt="Portfolio" height="30" width="40" /></a>
 </p>
 
 ---
