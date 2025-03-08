@@ -1,4 +1,5 @@
-("https://shorturl.at/elmH4")](https://bassamnaeem.com)
+
+
 
 <h1 align="center">Hi 👋, I'm Bassam Naeem</h1>
 <h3 align="center">A Passionate Full Stack Developer from Pakistan</h3>
