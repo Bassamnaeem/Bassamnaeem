@@ -64,6 +64,8 @@ I’m **Bassam Naeem**, a dynamic full-stack **Software Developer** with a **Bac
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bassamnaeem&theme=dark" alt="GitHub Streak" />
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bassamnaeem&label=Profile%20views&color=0e75b6&style=flat" alt="bassamnaeem" /> </p>
+
 ---
 
 ### 📜 Certifications
